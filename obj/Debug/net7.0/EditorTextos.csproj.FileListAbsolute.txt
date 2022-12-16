@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\EditorTextos\bin\Debug\net7.0\EditorTextos.exe
+C:\Users\jully\OneDrive\Documentos\EditorTextos\bin\Debug\net7.0\EditorTextos.deps.json
+C:\Users\jully\OneDrive\Documentos\EditorTextos\bin\Debug\net7.0\EditorTextos.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\EditorTextos\bin\Debug\net7.0\EditorTextos.dll
+C:\Users\jully\OneDrive\Documentos\EditorTextos\bin\Debug\net7.0\EditorTextos.pdb
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.dll
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\refint\EditorTextos.dll
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.pdb
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\EditorTextos.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\EditorTextos\obj\Debug\net7.0\ref\EditorTextos.dll
